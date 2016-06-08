@@ -1,6 +1,6 @@
 XSL | Yate
 ------------ | -------------
-apply-imports | – 
+apply-imports | –
 apply-templates | apply
 attribute | @attribute="value"
 attribute-set | –
